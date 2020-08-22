@@ -3,6 +3,7 @@ title: Python数据类型
 date: 2020-08-22 10:24:33
 tags: Python
 categories: Python
+thumbnail: /img/Python/1.jpg
 ---
 找补找补
 <!-- more -->
